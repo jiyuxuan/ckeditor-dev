@@ -3,6 +3,10 @@
 
 ## CKEditor 4.11.5
 
+Fixed Issues:
+
+* [#2235](https://github.com/ckeditor/ckeditor-dev/issues/2235): Fixed: [Image](https://ckeditor.com/cke4/addon/image) in table cell has an empty URL field when edited from context menu opened by right-click when [Table Selection](https://ckeditor.com/cke4/addon/tableselection) plugin is in use.
+
 ## CKEditor 4.11.4
 
 Fixed Issues:
